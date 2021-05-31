@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Baldassari/baldassari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀About Me
+
+🐳 I am Asaph Baldassari, a passionated Engineer. 
+
+🥦 I have a truly desire to be a meaningful man. So in order to achieve that I keep praying, learnig, challenging myself, listen, reading, working and spreeding love for who pass throught my life.
+
+⚡ Besides my name is originally from Hebrew I am from Brazil 😁
+
+💬 Feel free to ask any question
