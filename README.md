@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🐳 I am Asaph Baldassari, a passionated Engineer. 
 
-🥦 I have a truly desire to be a meaningful man. So in order to achieve that I keep praying, learnig, challenging myself, listen, reading, working and spreeding love for who pass throught my life.
+🥦 I have a truly desire to be a meaningful man. So in order to achieve that I keep praying, learnig, challenging myself, listening, reading, working and spreeding love for who pass throught my life.
 
 ⚡ Besides my name is originally from Hebrew I am from Brazil 😁
 
